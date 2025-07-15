@@ -40,11 +40,18 @@ markerFolder: ./Ash_Shamālīyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah|Ash_Shamālīyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.public|Ash_Shamālīyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.internal|Ash_Shamālīyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.protect|Ash_Shamālīyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.private|Ash_Shamālīyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.personal|Ash_Shamālīyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Ash_Shamālīyah.secret|Ash_Shamālīyah.secret]] 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.public.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.internal.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.protect.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.private.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.personal.md) 
+
+### #is_/same_as :: [Northern~Ash_Shamālīyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.secret.md)
 

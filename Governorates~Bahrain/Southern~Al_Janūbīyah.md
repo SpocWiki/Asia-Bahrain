@@ -40,11 +40,18 @@ markerFolder: ./Al_Janūbīyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah|Al_Janūbīyah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.public|Al_Janūbīyah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.internal|Al_Janūbīyah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.protect|Al_Janūbīyah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.private|Al_Janūbīyah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.personal|Al_Janūbīyah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Janūbīyah.secret|Al_Janūbīyah.secret]] 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.public.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.internal.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.protect.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.private.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.personal.md) 
+
+### #is_/same_as :: [Southern~Al_Janūbīyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.secret.md)
 

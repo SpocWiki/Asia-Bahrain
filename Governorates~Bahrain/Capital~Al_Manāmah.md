@@ -40,11 +40,18 @@ markerFolder: ./Al_Manāmah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah|Al_Manāmah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.public|Al_Manāmah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.internal|Al_Manāmah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.protect|Al_Manāmah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.private|Al_Manāmah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.personal|Al_Manāmah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Manāmah.secret|Al_Manāmah.secret]] 
+
+### #is_/same_as :: [Capital~Al_Manāmah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.public.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.internal.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.protect.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.private.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.personal.md) 
+
+### #is_/same_as :: [Capital~Al_Manāmah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.secret.md)
 

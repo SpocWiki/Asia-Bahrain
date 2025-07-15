@@ -40,11 +40,18 @@ markerFolder: ./Al_Wusţá/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá|Al_Wusţá]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.public|Al_Wusţá.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.internal|Al_Wusţá.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.protect|Al_Wusţá.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.private|Al_Wusţá.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.personal|Al_Wusţá.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Wusţá.secret|Al_Wusţá.secret]] 
+
+### #is_/same_as :: [Central~Al_Wusţá](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.public.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.internal.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.protect.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.private.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.personal.md) 
+
+### #is_/same_as :: [Central~Al_Wusţá.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.secret.md)
 

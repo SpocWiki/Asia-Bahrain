@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/City/Manama|Manama]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.public|Manama.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.internal|Manama.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.protect|Manama.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.private|Manama.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.personal|Manama.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/City/Manama.secret|Manama.secret]] 
+
+### #is_/same_as :: [Manama](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.md) 
+
+### #is_/same_as :: [Manama.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.public.md) 
+
+### #is_/same_as :: [Manama.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.internal.md) 
+
+### #is_/same_as :: [Manama.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.protect.md) 
+
+### #is_/same_as :: [Manama.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.private.md) 
+
+### #is_/same_as :: [Manama.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.personal.md) 
+
+### #is_/same_as :: [Manama.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.secret.md)
+

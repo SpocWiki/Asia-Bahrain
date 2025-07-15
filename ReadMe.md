@@ -132,10 +132,4 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Bahrain|Bahrain]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain.internal|Bahrain.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain.protect|Bahrain.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain.private|Bahrain.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain.personal|Bahrain.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain.secret|Bahrain.secret]] 
+

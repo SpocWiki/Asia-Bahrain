@@ -40,11 +40,18 @@ markerFolder: ./Al_Muḩarraq/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq|Al_Muḩarraq]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.public|Al_Muḩarraq.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.internal|Al_Muḩarraq.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.protect|Al_Muḩarraq.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.private|Al_Muḩarraq.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.personal|Al_Muḩarraq.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Bahrain/Counties/Al_Muḩarraq.secret|Al_Muḩarraq.secret]] 
+
+### #is_/same_as :: [Al_Muḩarraq](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.public.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.internal.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.protect.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.private.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.personal.md) 
+
+### #is_/same_as :: [Al_Muḩarraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Al_Muḩarraq.secret.md)
 
