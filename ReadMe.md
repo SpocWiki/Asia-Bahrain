@@ -1,39 +1,40 @@
 ---
 location:
-- 26.2
-- 50.58
+  - 26.2
+  - 50.58
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26847
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bahrain
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bahrain
-- Bahrein
-- Bahreïn
-- البحرين
-- 巴林
-- Бахрейн
-- the Kingdom of Bahrain
-- el Reino de Bahrein
+  - Bahrain
+  - Bahrein
+  - Bahreïn
+  - البحرين
+  - 巴林
+  - Бахрейн
+  - the Kingdom of Bahrain
+  - el Reino de Bahrein
 Languages:
-- ar-BH
-- en
-- fa
-- ur
+  - ar-BH
+  - en
+  - fa
+  - ur
 ---
 
 
