@@ -40,17 +40,17 @@ markerFolder: ./Al_Manāmah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital~Al_Manāmah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah|Capital~Al_Manāmah]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.public|Capital~Al_Manāmah.public]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.internal|Capital~Al_Manāmah.internal]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.protect|Capital~Al_Manāmah.protect]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.private|Capital~Al_Manāmah.private]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.personal|Capital~Al_Manāmah.personal]] 
 
-### #is_/same_as :: [Capital~Al_Manāmah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah.secret|Capital~Al_Manāmah.secret]] 
 

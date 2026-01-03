@@ -40,17 +40,17 @@ markerFolder: ./Al_Janūbīyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah|Southern~Al_Janūbīyah]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.public|Southern~Al_Janūbīyah.public]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.internal|Southern~Al_Janūbīyah.internal]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.protect|Southern~Al_Janūbīyah.protect]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.private|Southern~Al_Janūbīyah.private]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.personal|Southern~Al_Janūbīyah.personal]] 
 
-### #is_/same_as :: [Southern~Al_Janūbīyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Southern~Al_Janūbīyah.secret|Southern~Al_Janūbīyah.secret]] 
 

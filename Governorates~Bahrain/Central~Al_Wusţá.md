@@ -40,17 +40,17 @@ markerFolder: ./Al_Wusţá/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Central~Al_Wusţá](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá|Central~Al_Wusţá]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.public|Central~Al_Wusţá.public]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.internal|Central~Al_Wusţá.internal]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.protect|Central~Al_Wusţá.protect]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.private|Central~Al_Wusţá.private]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.personal|Central~Al_Wusţá.personal]] 
 
-### #is_/same_as :: [Central~Al_Wusţá.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Central~Al_Wusţá.secret|Central~Al_Wusţá.secret]] 
 

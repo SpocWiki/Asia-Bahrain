@@ -95,19 +95,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Manama)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manama](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama|Manama]] 
 
-### #is_/same_as :: [Manama.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.public|Manama.public]] 
 
-### #is_/same_as :: [Manama.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.internal|Manama.internal]] 
 
-### #is_/same_as :: [Manama.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.protect|Manama.protect]] 
 
-### #is_/same_as :: [Manama.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.private|Manama.private]] 
 
-### #is_/same_as :: [Manama.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.personal|Manama.personal]] 
 
-### #is_/same_as :: [Manama.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Capital~Al_Manāmah/City/Manama.secret|Manama.secret]] 
 

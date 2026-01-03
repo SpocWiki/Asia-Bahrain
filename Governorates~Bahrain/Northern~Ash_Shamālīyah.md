@@ -40,17 +40,17 @@ markerFolder: ./Ash_Shamālīyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah|Northern~Ash_Shamālīyah]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.public|Northern~Ash_Shamālīyah.public]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.internal|Northern~Ash_Shamālīyah.internal]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.protect|Northern~Ash_Shamālīyah.protect]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.private|Northern~Ash_Shamālīyah.private]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.personal|Northern~Ash_Shamālīyah.personal]] 
 
-### #is_/same_as :: [Northern~Ash_Shamālīyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain/Governorates~Bahrain/Northern~Ash_Shamālīyah.secret|Northern~Ash_Shamālīyah.secret]] 
 
