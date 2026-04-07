@@ -15,32 +15,32 @@ SpocWebEntityId: 32248
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Tripoli,168954]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Chicago,1297]]"
-  - "[[_Standards/WikiData/WD~Tunis,3572]]"
-  - "[[_Standards/WikiData/WD~Ankara,3640]]"
-  - "[[_Standards/WikiData/WD~Doha,3861]]"
-  - "[[_Standards/WikiData/WD~Karachi,8660]]"
-  - "[[_Standards/WikiData/WD~Kuwait_City,35178]]"
-  - "[[_Standards/WikiData/WD~Chiang_Mai,52028]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Capital_Governorate,528953]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+  - "[[_Standards/WikiData/WD~Tripoli,168954|WD~Tripoli,168954]]"
+  - "[[_Standards/WikiData/WD~Saint_Petersburg,656|WD~Saint_Petersburg,656]]"
+  - "[[_Standards/WikiData/WD~Chicago,1297|WD~Chicago,1297]]"
+  - "[[_Standards/WikiData/WD~Tunis,3572|WD~Tunis,3572]]"
+  - "[[_Standards/WikiData/WD~Ankara,3640|WD~Ankara,3640]]"
+  - "[[_Standards/WikiData/WD~Doha,3861|WD~Doha,3861]]"
+  - "[[_Standards/WikiData/WD~Karachi,8660|WD~Karachi,8660]]"
+  - "[[_Standards/WikiData/WD~Kuwait_City,35178|WD~Kuwait_City,35178]]"
+  - "[[_Standards/WikiData/WD~Chiang_Mai,52028|WD~Chiang_Mai,52028]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Capital_Governorate,528953|WD~Capital_Governorate,528953]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
 inception: 1345-01-01T00:00:00Z
 coordinate_location: Point(50.5775 26.225)
-capital_of: "[[_Standards/WikiData/WD~Bahrain,398]]"
-country: "[[_Standards/WikiData/WD~Bahrain,398]]"
+capital_of: "[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
+country: "[[_Standards/WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
 area: 30
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Persian_Gulf,34675]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Persian_Gulf,34675|WD~Persian_Gulf,34675]]"
 population: 297502
 OmegaWiki_Defined_Meaning: "460265"
 WOEID: "1967057"
@@ -66,7 +66,7 @@ demonym:
 [geo-lat::26.2] 
 [name::Manama] 
 State ::  
-Country :: [[../../../../Bahrain]]  
+Country :: [[../../../../Bahrain|Bahrain]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

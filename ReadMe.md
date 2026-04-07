@@ -120,7 +120,7 @@ markerFolder: ./
 [Area-Land::680] 
 Continent :: [[Asia]]  
 [VehicleCode::BRN] 
-Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]  
+Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama|Manama]]  
 ![[Bahrain/Emblem_of_Bahrain.svg|350]]  
 
 ![[Anthem-Bahrain.mp3]] 
