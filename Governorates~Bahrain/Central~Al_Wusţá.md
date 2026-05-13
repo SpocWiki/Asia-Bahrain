@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Wusţá/
 markerFolder: ./Al_Wusţá/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

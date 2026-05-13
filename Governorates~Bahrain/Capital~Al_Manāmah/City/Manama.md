@@ -93,7 +93,7 @@ maxZoom: 18
 >
 > Although the current twin cities of Manama and Muharraq appear to have been founded simultaneously in the 1800s, Muharraq took prominence due to its defensive location and was thus the capital of Bahrain until 1923. Manama became the mercantile capital and was the gateway to the main Bahrain Island. In the 20th century, Bahrain's oil wealth helped spur fast growth and in the 1990s a concerted diversification effort led to expansion in other industries and helped transform Manama into an important financial hub in the Middle East. Manama was designated as the 2012 capital of Arab culture by the Arab League, and a beta global city by the Globalization and World Cities Research Network in 2018.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Manama)
+> [Wikipedia](https://en.wikipedia.org/wiki/Manama) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Al_Muḩarraq/
 markerFolder: ./Al_Muḩarraq/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
