@@ -319,7 +319,7 @@ dv_UNTERM_Chinese_Formal: 巴林王国
 dv_UNTERM_French_Formal: le Royaume de Bahreïn
 dv_UNTERM_Russian: Бахрейн
 dv_UNTERM_Russian_Formal: Королевство Бахрейн
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[Bahrain]]"
 dv_Sub-region_Name: "[[Western Asia]]"
 dv_Region: 142
@@ -344,7 +344,7 @@ dv_ISO2: BH
 dv_ISO3: BHR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
+    - "[[../../../../../WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain|Bahrain]]"
     - "[[/_public/Earth/Continent/Asia/Asia~West/Bahrain.public|Bahrain.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal|Bahrain.internal]]"
@@ -355,18 +355,18 @@ dv_is_:
 dv_has_name_de: Bahrain
 dv_Area-Total: 680
 dv_Area-Land: 680
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: BRN
-dv_Capital: "[[Bahrain/Counties/Al_Manāmah/City/Manama|Manama]]"
+dv_Capital: "[[Counties/Al_Manāmah/City/Manama|Manama]]"
 dv_Alcohol-l: 3.7
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 50.58
 dv_has_place_latitude: 26.2
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Bahrain
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
+  - "[[../../../../../WikiData/WD~Bahrain,398|WD~Bahrain,398]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain|Bahrain]]"
   - "[[/_public/Earth/Continent/Asia/Asia~West/Bahrain.public|Bahrain.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal|Bahrain.internal]]"
@@ -661,7 +661,7 @@ contains_the_administrative_territorial_entity:
   - "[[/_Standards/WikiData/WD~Central_Governorate,856539|WD~Central_Governorate,856539]]"
 central_bank: "[[/_Standards/WikiData/WD~Central_Bank_of_Bahrain,571182|WD~Central_Bank_of_Bahrain,571182]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325|WD~Evangelisches_Kirchenlexikon,1381325]]"
   - "[[/_Standards/WikiData/WD~International_Encyclopedia_of_Comparative_Law,1666514|WD~International_Encyclopedia_of_Comparative_Law,1666514]]"
@@ -867,7 +867,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bahrain/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -887,7 +887,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Bahrain_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -911,10 +911,10 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Bahrain/Emblem_of_Bahrain.svg|350]]  
+![[Emblem_of_Bahrain.svg|350]]  
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3|Anthem-Bahrain.mp3]]
-![[Bahrain/Flag_of_Bahrain.svg|350]]  
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Bahrain.mp3|Anthem-Bahrain.mp3]]
+![[Flag_of_Bahrain.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
